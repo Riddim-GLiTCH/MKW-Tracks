@@ -1,2 +1,3 @@
 # MKW-Tracks
-Mario Kart Wii Track Archive
+My Mario Kart Wii Track Archive.
+Contains backups of all my Mario Kart Wii tracks
